@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-the-first-omen",
+        },{id: "post-catzilla-v-s-human",
+        
+          title: "Catzilla v.s. Human",
+        
+        description: "An ancient struggle between the feline overlord and its human caretaker.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/videos/";
+          
+        },
+      },{id: "post-the-first-omen",
         
           title: "The First Omen",
         
@@ -50,17 +61,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-a-post-with-videos",
-        
-          title: "a post with videos",
-        
-        description: "this is what included videos could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/videos/";
           
         },
       },{id: "news-and-it-came-to-pass-that-a-small-creature-was-brought-forth-into-the-world-and-mischief-was-made-flesh",
