@@ -30,15 +30,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-catzilla-v-s-human",
+        },{id: "post-the-eight-crimes-of-the-cat",
         
-          title: "Catzilla v.s. Human",
+          title: "The Eight Crimes of the Cat",
         
-        description: "An ancient struggle between the feline overlord and its human caretaker.",
+        description: "An official record of the eight transgressions committed by the feline entity known as Catzilla.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/videos/";
+          
+        },
+      },{id: "post-8crimes",
+        
+          title: "8crimes",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/8crimes/";
           
         },
       },{id: "post-the-first-omen",
@@ -50,17 +61,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/catface/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
-        
-          title: "a post with image galleries",
-        
-        description: "this is what included image galleries could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/photo-gallery/";
           
         },
       },{id: "news-and-it-came-to-pass-that-a-small-creature-was-brought-forth-into-the-world-and-mischief-was-made-flesh",
