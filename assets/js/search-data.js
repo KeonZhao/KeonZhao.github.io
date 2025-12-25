@@ -38,18 +38,18 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/videos/";
+            window.location.href = "/blog/2025/8crimes/";
           
         },
-      },{id: "post-8crimes",
+      },{id: "post-catzilla-v-s-human",
         
-          title: "8crimes",
+          title: "Catzilla v.s. Human",
         
-        description: "",
+        description: "An ancient struggle between the feline overlord and its human caretaker.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/8crimes/";
+            window.location.href = "/blog/2025/videos/";
           
         },
       },{id: "post-the-first-omen",
