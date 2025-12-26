@@ -52,6 +52,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/videos/";
           
         },
+      },{id: "post-catcome",
+        
+          title: "Catcome",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/catcome/";
+          
+        },
       },{id: "post-the-first-omen",
         
           title: "The First Omen",
