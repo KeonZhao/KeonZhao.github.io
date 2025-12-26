@@ -52,6 +52,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/videos/";
           
         },
+      },{id: "post-the-sealing-of-the-demon",
+        
+          title: "The Sealing of the Demon",
+        
+        description: "The gates were closed, yet the power remained.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/hospital/";
+          
+        },
       },{id: "post-the-coming-of-the-cat",
         
           title: "The Coming of the Cat",
