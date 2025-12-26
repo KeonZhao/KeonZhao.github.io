@@ -52,11 +52,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/videos/";
           
         },
-      },{id: "post-catcome",
+      },{id: "post-the-coming-of-the-cat",
         
-          title: "Catcome",
+          title: "The Coming of the Cat",
         
-        description: "",
+        description: "She was not chosen. She was unleashed.",
         section: "Posts",
         handler: () => {
           
