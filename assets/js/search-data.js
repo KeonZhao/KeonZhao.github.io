@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-the-eight-crimes-of-the-cat",
+        },{id: "post-her-first-christmas",
+        
+          title: "Her first Christmas",
+        
+        description: "Adorable",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/christmas/";
+          
+        },
+      },{id: "post-the-eight-crimes-of-the-cat",
         
           title: "The Eight Crimes of the Cat",
         
