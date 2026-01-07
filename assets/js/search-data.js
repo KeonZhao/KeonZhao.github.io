@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-her-first-christmas",
+        },{id: "post-can-you-see-the-sunset-the-way-i-do",
+        
+          title: "Can you see the sunset the way I do?",
+        
+        description: "Adorable",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/sunset/";
+          
+        },
+      },{id: "post-her-first-christmas",
         
           title: "Her first Christmas",
         
