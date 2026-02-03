@@ -30,11 +30,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-can-you-see-the-sunset-the-way-i-do",
+        },{id: "post-some-cat-updates",
         
-          title: "Can you see the sunset the way I do?",
+          title: "Some Cat Updates",
         
-        description: "Adorable",
+        description: "Adorable*3",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/update/";
+          
+        },
+      },{id: "post-cat-can-you-see-the-sunset-the-way-i-do",
+        
+          title: "Cat, can you see the sunset the way I do?",
+        
+        description: "Adorable*2",
         section: "Posts",
         handler: () => {
           
